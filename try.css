@@ -1,0 +1,23 @@
+#leftbox {
+        float:left;
+        background:Red;
+        width:280px;
+        height:280px;
+        padding-right: 5px;
+        border-right: dotted;
+      }
+      #middlebox{
+        float: left;
+        background:Green;
+        width:500px;
+        height:280px;
+      }
+      #rightbox{
+        float:left;
+        background:blue;
+        width:500px;
+        height:280px;
+      }
+      h1{
+        color:green;
+        text-align:center;
